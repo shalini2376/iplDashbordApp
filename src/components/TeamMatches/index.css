@@ -1,0 +1,42 @@
+.team-matches-container {
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #1e293b);
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 10px;
+  margin: auto;
+  padding: 20px;
+  font-family: 'Bree Serif';
+}
+.team-banner-img-dontainer {
+  text-align: center;
+}
+.team-banner-img {
+  width: 100%;
+}
+.latest-matches-heading {
+  color: #ffffff;
+  align-self: flex-start;
+}
+.latest-matches-container {
+  width: 100%;
+}
+.match-card-container {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+  box-sizing: border-box;
+  padding: 12px;
+}
+/* .loader-container {
+  text-align: center;
+} */
