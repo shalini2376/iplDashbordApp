@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iplDashbordApp/static/css/main.b89b1af4.chunk.css",
-    "main.js": "/iplDashbordApp/static/js/main.89ba777a.chunk.js",
-    "main.js.map": "/iplDashbordApp/static/js/main.89ba777a.chunk.js.map",
+    "main.js": "/iplDashbordApp/static/js/main.340d1339.chunk.js",
+    "main.js.map": "/iplDashbordApp/static/js/main.340d1339.chunk.js.map",
     "runtime-main.js": "/iplDashbordApp/static/js/runtime-main.f02e8ae8.js",
     "runtime-main.js.map": "/iplDashbordApp/static/js/runtime-main.f02e8ae8.js.map",
     "static/js/2.67036d95.chunk.js": "/iplDashbordApp/static/js/2.67036d95.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f02e8ae8.js",
     "static/js/2.67036d95.chunk.js",
     "static/css/main.b89b1af4.chunk.css",
-    "static/js/main.89ba777a.chunk.js"
+    "static/js/main.340d1339.chunk.js"
   ]
 }
